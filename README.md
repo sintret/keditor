@@ -11,16 +11,15 @@ Available at [http://kademi.github.io/keditor/](http://kademi.github.io/keditor/
     ```
 
 
- 2. install
+ 2. Install
     ```javascript
     npm install
     ```
-    
 
   3. Running with your browser
-    ```javascript
-    npm run-script run
-    ```
+     ```javascript
+        npm run-script run
+        ```
 
 ## Documentation
 1. [Getting started](./docs/getting_started.md)
