@@ -10,10 +10,12 @@ Available at [http://kademi.github.io/keditor/](http://kademi.github.io/keditor/
     git clone https://github.com/sintret/keditor.git
     ```
 
+
  2. install
-  ```javascript
-     npm install
-     ```
+    ```javascript
+    npm install
+    ```
+    
 
   3. Running with your browser
     ```javascript
