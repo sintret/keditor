@@ -4,7 +4,7 @@ KEditor is a jQuery plugin which provides a content editor with drag n drop, con
 ## Live examples
 Available at [http://kademi.github.io/keditor/](http://kademi.github.io/keditor/)
 
-## Installation and running
+## Installation and running locally
  1. Clone it
     ```javascript
     git clone https://github.com/sintret/keditor.git
@@ -16,10 +16,10 @@ Available at [http://kademi.github.io/keditor/](http://kademi.github.io/keditor/
     npm install
     ```
 
-  3. Running with your browser
+ 3. Running with your browser
      ```javascript
-        npm run-script run
-        ```
+     npm run-script run
+     ```
 
 ## Documentation
 1. [Getting started](./docs/getting_started.md)
